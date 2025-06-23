@@ -6,26 +6,28 @@ This project is a responsive and interactive Ecological Footprint Calculator bui
 
 ✨ <b>Features</b>
 🔄 Multi-step animated form with smooth transitions
-🧮 Calculates ecological footprint in global hectares (gha)
-📊 Bar chart comparing your score to the sustainable average (1.7 gha)
-🥧 Pie chart breakdown by category: Transport, Energy, Diet, Waste, Lifestyle
-✅ Personalized suggestions based on your score
-💡 Clean and responsive UI using Tailwind CSS
-⚛️ Built with React + Vite and animated using Framer Motion
+<br>🧮 Calculates ecological footprint in global hectares (gha)
+<br>📊 Bar chart comparing your score to the sustainable average (1.7 gha)
+<br>🥧 Pie chart breakdown by category: Transport, Energy, Diet, Waste, Lifestyle
+<br>✅ Personalized suggestions based on your score
+<br>💡 Clean and responsive UI using Tailwind CSS
+<br>⚛️ Built with React + Vite and animated using Framer Motion
 
 🛠 <b>Tech Stack</b>
-React (with Hooks)
-Vite (for blazing-fast builds)
-Tailwind CSS (for styling)
-Framer Motion (for page transitions)
-Chart.js (Bar & Pie charts)
+<ul>
+  <li>React</li>
+  <li>Vite</li>
+  <li>Tailwind CSS</li>
+  <li>Framer Motion</li>
+  <li>Chart.js</li>
+</ul>
 
 📊 <b>How It Works</b>
 Your final ecological footprint is calculated based on:
 🚗 Transportation (km/week, short flights/year)
-⚡ Home energy usage (electricity + gas)
-🥗 Diet (vegan, vegetarian, omnivore)
-♻️ Waste (recycling, plastic usage)
-🛍️ Lifestyle (shopping habits, shower time, eco activities)
+<br>⚡ Home energy usage (electricity + gas)
+<br>🥗 Diet (vegan, vegetarian, omnivore)
+<br>♻️ Waste (recycling, plastic usage)
+<br>🛍️ Lifestyle (shopping habits, shower time, eco activities)
 
 A score is returned in global hectares, compared against the average sustainable target: 1.7 gha per person.
