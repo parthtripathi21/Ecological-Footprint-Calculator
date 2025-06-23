@@ -2,7 +2,7 @@
 This project is a responsive and interactive Ecological Footprint Calculator built with React + Vite, designed to help users estimate the environmental impact of their lifestyle choices. It provides visual feedback through graphs and personalized suggestions.
 
 🔗 <b>Live Demo</b>
-👉 <a src="https://parthtripathi21.github.io/Ecological-Footprint-Calculator/">here</a>
+👉 [Here](https://parthtripathi21.github.io/Ecological-Footprint-Calculator/)
 
 ✨ <b>Features</b>
 🔄 Multi-step animated form with smooth transitions
