@@ -5,7 +5,7 @@ This project is a responsive and interactive Ecological Footprint Calculator bui
 👉 [Here](https://parthtripathi21.github.io/Ecological-Footprint-Calculator/)
 
 ✨ <b>Features</b>
-🔄 Multi-step animated form with smooth transitions
+<br>🔄 Multi-step animated form with smooth transitions
 <br>🧮 Calculates ecological footprint in global hectares (gha)
 <br>📊 Bar chart comparing your score to the sustainable average (1.7 gha)
 <br>🥧 Pie chart breakdown by category: Transport, Energy, Diet, Waste, Lifestyle
@@ -24,7 +24,7 @@ This project is a responsive and interactive Ecological Footprint Calculator bui
 
 📊 <b>How It Works</b>
 Your final ecological footprint is calculated based on:
-🚗 Transportation (km/week, short flights/year)
+<br>🚗 Transportation (km/week, short flights/year)
 <br>⚡ Home energy usage (electricity + gas)
 <br>🥗 Diet (vegan, vegetarian, omnivore)
 <br>♻️ Waste (recycling, plastic usage)
